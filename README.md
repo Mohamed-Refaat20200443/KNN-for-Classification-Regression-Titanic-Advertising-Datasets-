@@ -1,4 +1,4 @@
-# KNN-for-Classification-Regression-Titanic-Advertising-Datasets-
+
 # K-Nearest Neighbors (KNN) - Classification & Regression Project
 
 ## 📌 Overview
